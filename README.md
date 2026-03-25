@@ -4,10 +4,10 @@ This is a self-study project. The Kaggle competition â€˜Predict Customer Churnâ€
 Approach 1:  HistGradientBoostingClassifier
 Accuracy: 0.91297
 
-Approach 2: Since we have many category vars in the training dataset, we should try catboost model.
+Approach 2: Since we have many categorical vars in the training dataset, we should try catboost model.
 Accuracy: 0.91341
 
-If I take average of the two prediction scores from these two models, the accuracy is improved to 0.91346
+I took average of the two prediction scores from these two models, the accuracy improved to 0.91346
 
 <img width="2981" height="1754" alt="image" src="https://github.com/user-attachments/assets/9bbc0290-e26f-40af-bad9-eb6e03e3bca4" />
 
