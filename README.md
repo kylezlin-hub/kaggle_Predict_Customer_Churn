@@ -11,5 +11,9 @@ I took average of the two prediction scores from these two models, the accuracy 
 
 <img width="2981" height="1754" alt="image" src="https://github.com/user-attachments/assets/9bbc0290-e26f-40af-bad9-eb6e03e3bca4" />
 
+The winner of this competition achieved a score of 0.91856, which was 0.005 better than mine. 
+<img width="3049" height="1848" alt="image" src="https://github.com/user-attachments/assets/d5be09ab-183e-44fc-bc10-b2bbd7f97f91" />
+
+
 
 
