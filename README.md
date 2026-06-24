@@ -1,5 +1,5 @@
 # kaggle_Predict_Customer_Churn
-This is a self-study project. The Kaggle competition ‘Predict Customer Churn’ started on March 1, 2026. I’m using it to practice forecasting a binary classification problem. Traditionally, logistic regression is used for this type of task, but now we can also try more advanced machine learning models.
+This is a self-study project. The Kaggle competition ‘Predict Customer Churn’ started on March 1, 2026. I’m using it to practice forecasting a binary classification problem. Traditionally, logistic regression is used for this type of task, but now we can also try more advanced machine learning models. Through this competition, I learned from the approaches of other participants and benchmarked my models against the leaderboard results to better understand effective forecasting methodologies.
 
 Approach 1:  HistGradientBoostingClassifier
 Accuracy: 0.91297
