@@ -7,6 +7,8 @@ Accuracy: 0.91297
 Approach 2: Since we have many categorical vars in the training dataset, we should try catboost model.
 Accuracy: 0.91341
 
+It shows CATBOOST model does work better for this paticular training dataset.
+
 # I took average of the two prediction scores from these two models, the accuracy improved to 0.91346
 
 <img width="2981" height="1754" alt="image" src="https://github.com/user-attachments/assets/9bbc0290-e26f-40af-bad9-eb6e03e3bca4" />
